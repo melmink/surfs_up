@@ -10,7 +10,7 @@ A new found love of surfing has inspired me to open a surf and shake shop in Oah
 -The lowest temperature in December was 11 degrees colder than the lowest temperaure in June.
 -The highest temperaure in June and December had a 5 degree difference.
 
-![June Stats](https://github.com/melmink/surfs_up/blob/main/Dec_Stats.PNG)
+![June Stats](https://github.com/melmink/surfs_up/blob/main/June_Stats.PNG)
 
 ![December Stats](https://github.com/melmink/surfs_up/blob/main/Dec_Stats.PNG)
 
