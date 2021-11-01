@@ -16,7 +16,7 @@ A new found love of surfing has inspired me to open a surf and shake shop in Oah
 
 ## Summary
 ### Synopsis and Additional Queries
-The data provides that the temeraures in Oahu, Hawaii are warmer in the month of June than they are in the month od December.
+The data provides that the temeraures in Oahu, Hawaii are warmer in the month of June than they are in the month of December.
 
 - #### Precipitation
     - Query the data for the amount of precipitaion for each month.
